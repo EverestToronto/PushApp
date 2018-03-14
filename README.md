@@ -21,7 +21,7 @@ The Push Program is a meditation/breathing/posture application.
 ### Challenge 1: Registration
 * **Goal**: To allow approval of each registration from the web application front-end.
 * **Reasoning**: Our client wanted to approve or reject each user registering their account.
-* **What We Did**: Each user that registered through the mobile would be denied entry upon approval from the web application front-end.
+* **What We Did**: Each user that registered through the mobile app would be denied entry until client provides approval from the web application front-end
 
 ### Challenge 2: Dynamic Content
 * **Goal**: Allow content on mobile to be modified through the web application.
